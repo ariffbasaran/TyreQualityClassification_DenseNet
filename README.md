@@ -13,6 +13,10 @@ The model has been evaluated on the test dataset, and the following results were
   
 ![image](https://github.com/ariffbasaran/TyreQualityClassification_DenseNet/assets/109107707/408fc83d-87c0-4741-a753-13b73e65e08e)
 
+## Sample Outputs
+![image](https://github.com/ariffbasaran/TyreQualityClassification_DenseNet/assets/109107707/8ddfa922-fdc9-45c6-98a6-91d482cb9871)
+
+
 ## About Dataset
 
 The dataset contains 1854 digital tyre images, categorized into two classes: defective and good condition. Each image is in a digital format and represents a single tyre. The images are labelled based on their condition, i.e., whether the tyre is defective or in good condition.
